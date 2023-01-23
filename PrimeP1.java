@@ -9,7 +9,7 @@ class PrimeP1 {
                 }
             }
             if (count == 2) {
-                System.out.println(i);
+                System.out.println(i + " is Prime");
             }
         }
 
